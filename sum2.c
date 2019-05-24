@@ -1,7 +1,3 @@
-
-
-
-
 #include<stdio.h>
 void input(int *a,int *b)
 {
@@ -25,6 +21,7 @@ input(&a,&b);
 c=add(a,b);
 output(c);
 }
+
 
 
 
